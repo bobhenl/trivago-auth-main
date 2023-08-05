@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "ProximaVara";
+  src: url("/fonts/proximaVara.woff2") format("woff2");
+}
